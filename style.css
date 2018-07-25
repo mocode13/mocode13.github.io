@@ -1,0 +1,26 @@
+/*Selector {
+	property: value;
+}*/
+
+body {
+
+		font-family: 'Merienda', cursive;
+	margin:0;
+	height: 100%;
+	width: 100%;
+}
+
+header{
+	background: url(APC_0657-Edit.png) center center no-repeat;
+	background-size: cover;
+    height: 100%;
+    text-shadow: 0 0 black;
+}
+.hero h1{
+	margin: 4em 0;
+}
+
+.my-auto {
+	margin-top: auto !important;
+	 margin-bottom: auto!important;
+}
